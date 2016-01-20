@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Wed Jan 20 17:50:24 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): instance a816c00e-0152-5ff1-bdd6-00000702da18 
+on database directory C:\Users\Mitja\Documents\NetBeansProjects\Valuta\dbase\valute  with class loader sun.misc.Launcher$AppClassLoader@5e875dee 
+Loaded from file:/C:/Users/Mitja/.m2/repository/unknown/binary/derby/SNAPSHOT/derby-SNAPSHOT.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_79-b15
+user.dir=C:\Users\Mitja\Documents\NetBeansProjects\Valuta
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 20 17:51:03 CET 2016:
+Shutting down instance a816c00e-0152-5ff1-bdd6-00000702da18 on database directory C:\Users\Mitja\Documents\NetBeansProjects\Valuta\dbase\valute with class loader sun.misc.Launcher$AppClassLoader@5e875dee 
